@@ -1,0 +1,11 @@
+﻿Item,Specification / Model,Quantity,Supplier,Product URL,Notes
+Main servo,TowerPro MG946R Digital High Torque Metal Gear Servo Motor,6,Robu.in,https://robu.in/product/towerpro-mg946r-digital-high-torque-metal-gear-servo-motor/,Main arm joints
+Mini servo,"MG90S mini metal-gear servo, 180-degree positional rotation",1,RoboticsDNA,https://roboticsdna.in/product/towerpro-mg90s-mini-digital-servo-motor-180-rotation/,"Use a positional 180-degree version, not a 360-degree continuous-rotation version"
+Magnetic encoder module,AS5600 magnetic encoder sensor module,5,Robu.in,https://robu.in/product/magnetic-encoder-sensor-module-as5600/,One per sensed joint; confirm if the sixth joint also needs feedback
+Diametric magnet,Diametrically magnetized magnet compatible with AS5600,5,,,Check whether magnets are included with the AS5600 modules
+I2C multiplexer,CJMCU-TCA9548A 8-channel I2C multiplexer board,1,Robu.in,https://robu.in/product/cjmcu-tca9548a-i2c-8-channel-multiple-extensions-development-board/,Allows multiple same-address AS5600 modules on one I2C bus
+Servo PWM driver,PCA9685 16-channel 12-bit I2C servo/PWM driver,1,Robu.in,https://robu.in/product/16-channel-12-bit-pwmservo-driver-i2c-interface-pca9685-arduino-raspberry-pi/,16 channels; supports the seven servos in this BOM
+Microcontroller,ESP32-S3-DevKitC-1-N16R8,1,Amazon India,https://amzn.in/d/00UzSUMf,Verify exact N16R8 version in listing
+Servo power supply,Power supply from supplied Amazon listing; rating not verified,1,Amazon India,https://amzn.in/d/00Qqx9EG,Verify output voltage and continuous current suit all servos
+M3 screws,M3 machine screws; length/head type to be chosen for the printed parts,30,,,Confirm length before purchase
+M3 heat-set inserts,Brass M3 heat-set threaded inserts; size to match printed-part design,30,,,Choose insert length and outer diameter to match the 3D-print design
