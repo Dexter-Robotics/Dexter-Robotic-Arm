@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Dexter")(type "KiCad")(uri "${KIPRJMOD}/Dexter.pretty")(options "")(descr "Dexter arm module footprints"))
+)

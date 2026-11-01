@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Dexter")(type "KiCad")(uri "${KIPRJMOD}/Dexter.kicad_sym")(options "")(descr "Dexter arm module symbols"))
+)
